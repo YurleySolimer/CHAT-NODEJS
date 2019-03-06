@@ -1,0 +1,25 @@
+{
+  "name": "CHAT-NODEJS",
+  "version": "1.0.0",
+  "description": "Chat JS, MongoDB, NodeJS, Express y Websockets",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YurleySolimer/CHAT-NODEJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YurleySolimer/CHAT-NODEJS/issues"
+  },
+  "homepage": "https://github.com/YurleySolimer/CHAT-NODEJS#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "socket.io": "^2.2.0"
+  }
+}
